@@ -30,3 +30,7 @@ VALUES
 (201,'Amit','BCA','Mumbai',85),
 (202,'Sneha','BSc','Pune',78),
 (203,'Rahul','BCom','Nashik',90);
+
+----- 
+SELECT * FROM Student
+WHERE marks > 80;
